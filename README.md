@@ -1,2 +1,1 @@
-# Museo.git---copia
-museo nuevo
+# refugio
